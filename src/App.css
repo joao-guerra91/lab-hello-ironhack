@@ -1,0 +1,46 @@
+.app{
+  background-color: #1F2535;
+  height: 40rem;
+  color: white;
+}
+
+.app h1{
+  margin-left: 50px;
+  font-size: 4rem;
+}
+
+.app p{
+  margin-left: 50px;
+  font-size: 1rem;
+}
+.app button{
+  margin-left: 50px;
+  padding: 15px;
+  color:  #1F2535;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+
+.elements {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.nav{
+  background-color: #1F2535;
+  height: 4rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav img{
+  margin: 0.5rem;
+}
+
+.menu{
+  height: 15px;
+  margin-right: 1rem;
+  margin-top: 2rem;
+}
